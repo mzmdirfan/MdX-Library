@@ -1,7 +1,7 @@
 # MdX-Library
 Hi, This is MdX, Here I would like to share the resources for various fields .
 
-# Learnig:
+# Learning:
 - Scott Young- https://www.youtube.com/@TheMITChallenge/videos
 # Machine Learning:
 - Neural Networks by Andrej Karpathy- https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ

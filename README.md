@@ -4,6 +4,8 @@ Hi, This is MdX, Here I would like to share the resources for various fields .
 - Scott Young- https://www.youtube.com/@TheMITChallenge/videos
 ## Networking:
 - Cisco
+## Cyber Security:
+## Linux:
 ## Machine Learning:
 - Neural Networks by Andrej Karpathy- https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ 
 ## Electronics:
@@ -13,3 +15,4 @@ Hi, This is MdX, Here I would like to share the resources for various fields .
 ## English:
 - English grammar in use by raymond murphy: https://archive.org/details/english-grammar-in-use-5th-edition-by-raymond-murphy
 - English Pronounciation: https://youglish.com/
+## Health and Science:

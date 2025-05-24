@@ -2,6 +2,7 @@
 Hi, This is MdX, Here I would like to share the resources for various fields .
 ## Learning:
 - Scott Young- https://www.youtube.com/@TheMITChallenge/videos
+- https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/
 ## Networking:
 - Cisco
 ## Cyber Security:

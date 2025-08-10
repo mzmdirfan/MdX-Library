@@ -16,4 +16,6 @@ Hi, This is MdX, Here I would like to share the resources for various fields .
 ## English:
 - English grammar in use by raymond murphy: https://archive.org/details/english-grammar-in-use-5th-edition-by-raymond-murphy
 - English Pronounciation: https://youglish.com/
+## Self Development:
+- Reading and Writing: https://odysseas.kit.com
 ## Health and Science:

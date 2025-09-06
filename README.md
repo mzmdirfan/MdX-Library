@@ -17,6 +17,8 @@ Hi, This is MdX, Here I would like to share the resources for various fields .
 - English grammar in use by raymond murphy: https://archive.org/details/english-grammar-in-use-5th-edition-by-raymond-murphy
 - English Pronounciation: https://youglish.com/
 ## Arabic:
+- Arabic Vocabulary Builder: https://www.arabicforbeginners.com/vocabulary?book=qasas-1&page=1
+- Free Course: https://fluentarabic.net/
 
 ## Self Development:
 - Reading and Writing: https://odysseas.kit.com

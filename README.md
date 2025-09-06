@@ -5,8 +5,13 @@ Hi, This is MdX, Here I would like to share the resources for various fields .
 - https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/
 ## Networking:
 - Cisco
+- https://youtube.com/playlist?list=PLTiBBmWjID7RkDQqWVBkEVXWdSljlXCBC&si=JJPCdrK1Tj2runWR
 ## Cyber Security:
+- ISC2:  https://www.isc2.org/certifications/cc
+- 
 ## Linux:
+- https://youtube.com/playlist?list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL&si=jT2lOtsFjEJjijIF
+- 
 ## Machine Learning:
 - Neural Networks by Andrej Karpathy- https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ 
 ## Electronics:

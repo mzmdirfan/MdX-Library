@@ -12,6 +12,8 @@ Hi, This is MdX, Here I would like to share the resources for various fields .
 ## Linux:
 - https://youtube.com/playlist?list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL&si=jT2lOtsFjEJjijIF
 - 
+## Books:
+- Tech Comics: https://wizardzines.com/
 ## Machine Learning:
 - Neural Networks by Andrej Karpathy- https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ 
 ## Electronics:

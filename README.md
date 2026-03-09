@@ -32,7 +32,7 @@ Hi, This is MdX, Here I would like to share the resources for various fields .
 - Art of manliness: https://www.artofmanliness.com/
 ## Health and Science:
 
-##History:
+## History:
 
 - Old Maps:
 https://www.oldmapsonline.org

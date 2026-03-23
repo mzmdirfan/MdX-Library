@@ -11,7 +11,9 @@ Hi, This is MdX, Here I would like to share the resources for various fields .
 - 
 ## Linux:
 - https://youtube.com/playlist?list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL&si=jT2lOtsFjEJjijIF
-- 
+-
+## Website:
+- Wedding Invitaion: https://aafiyathul-marliya.github.io/invitation/
 ## Books:
 - Tech Comics: https://wizardzines.com/
 ## Machine Learning:
